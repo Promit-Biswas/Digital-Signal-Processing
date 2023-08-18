@@ -29,7 +29,8 @@ An anti-causal signal, in the context of Digital Signal Processing (DSP), refers
 
 **5.5) Code:**
 
-```clear all;
+```matlab
+clear all;
 clc;
 x=[1,2,3,4,5,6,7]
 y=input('Give the StartPoint:');
