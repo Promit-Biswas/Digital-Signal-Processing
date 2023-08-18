@@ -113,9 +113,11 @@ ylabel('Imaginary Axis');
 <img src="CrossDiscrete.jpg">
 
 **Z transform:**
+
 <img src="Ztransform.jpg">
   
 **Zeros and Poles:**
+
 <img src="ZerosandPoles.jpg">
 
 **4.7) Discussion & Conclusion:**
