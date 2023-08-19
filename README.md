@@ -1,4 +1,8 @@
 # DSP_Lab_Reports
+Name: Promit Biswas
+
+Roll:1810039
+
 This Repository is mainly available for Lab reports 
 
 <a href="https://github.com/Promit-Biswas/DSP_Lab_Reports/tree/main/DSP%20Lab1">Lab Report 1</a>
